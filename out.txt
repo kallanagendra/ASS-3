@@ -1,0 +1,17 @@
+[642:96148000] Pali 20156 finished
+[1295:315463000] Pali 20157 finished
+[2203:151497000] Pali 20161 finished
+[2656:382051000] Pali 20169 finished
+[0:0] Child 1 with PID=20156 STARTED
+20156 1 coc
+[0:1000] Child 2 with PID=20157 STARTED
+20157 2 radar
+[642:96148000] PID 20156 done (exit 0)
+[642:96149000] Child 3 with PID=20161 STARTED
+20161 3 samas
+[1295:315463000] PID 20157 done (exit 0)
+[1295:315464000] Child 4 with PID=20169 STARTED
+20169 4 compiut
+[2203:190820000] PID 20161 done (exit 0)
+[2656:416185000] PID 20169 done (exit 0)
+[2656:416185000] oss done (exit 0)
